@@ -1,12 +1,0 @@
-
-1squid:S1220""Move this file to a named package.
-bsquid:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(фа╣А8■с■│ъ,
-Zsquid:UnusedPrivateMethod"0Remove this unused private "getFullName" method.(┌▄ ╜8■с■│ъ,
-Dsquid:S1148"#Use a logger to log this exception.(А╔╘Е¤    8■с■│ъ,
-Dsquid:S1148"#Use a logger to log this exception.(А╔╘Е¤    8■с■│ъ,
-bsquid:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(фа╣А8■с■│ъ,
-]squid:UnusedPrivateMethod"3Remove this unused private "getIntervalSum" method.(Ц▒·П8■с■│ъ,
-Ysquid:UselessImportCheck"1Remove this unused import 'java.util.LinkedList'.(╗─Ё18■с■│ъ,
-_squid:UselessImportCheck"1Remove this unused import 'java.util.Collection'.(╣╔╨Ъ∙    8■с■│ъ,
-Tsquid:UselessImportCheck"+Remove this unused import 'java.util.Date'.(╕Е╝№8■с■│ъ,
-м%squid:RedundantThrowsDeclarationCheck"wRemove the declaration of thrown exception 'java.lang.InterruptedException', as it cannot be thrown from method's body.(║Щ┌78■с■│ъ,

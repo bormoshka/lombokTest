@@ -1,21 +1,0 @@
-
-:squid:S2387"%"var1" is the name of a field in "X".(¨èÅÚ
-M
-squid:S106"9Replace this use of System.out or System.err by a logger.(Üí¥¿
-R
-squid:S106"9Replace this use of System.out or System.err by a logger.(Çš¨üùÿÿÿÿ
-M
-squid:S106"9Replace this use of System.out or System.err by a logger.(ïÞŸÜ
-R
-squid:S106"9Replace this use of System.out or System.err by a logger.(“ÙÛéþÿÿÿÿ
-Osquid:S1161":Add the "@Override" annotation above this method signature(þýûÛ
-M
-squid:S106"9Replace this use of System.out or System.err by a logger.(ç¼¢±
-R
-squid:S106"9Replace this use of System.out or System.err by a logger.(ãÏÇçþÿÿÿÿ
-Csquid:S1172")Remove this unused method parameter "x2".(«È·õÿÿÿÿÿ
-Csquid:S1172")Remove this unused method parameter "y2".(½Â¦Òþÿÿÿÿ
-R
-squid:S106"9Replace this use of System.out or System.err by a logger.(—Ê«Ñÿÿÿÿÿ
-Nsquid:S1161":Add the "@Override" annotation above this method signature(ã‘·:
-1squid:S1220""Move this file to a named package.

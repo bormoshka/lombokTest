@@ -4,13 +4,5 @@
     <annotationProcessing>
       <profile default="true" name="Default" enabled="true" />
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="com.example-gradle_main" target="1.8" />
-      <module name="com.example-gradle_test" target="1.8" />
-      <module name="gradle_main" target="1.8" />
-      <module name="gradle_test" target="1.8" />
-      <module name="lombok_1.16.20_main" target="1.8" />
-      <module name="lombok_1.16.20_test" target="1.8" />
-    </bytecodeTargetLevel>
   </component>
 </project>
