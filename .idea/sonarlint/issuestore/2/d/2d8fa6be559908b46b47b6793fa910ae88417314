@@ -1,0 +1,10 @@
+
+fsquid:S3986
+"HMake sure that Week Year "YYYY" is expected here instead of Year "yyyy".(ºÕ–8¾ÎØßê,
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(òşÊ¼ùÿÿÿÿ8¾ÎØßê,
+1squid:S1220""Move this file to a named package.
+[squid:S1197"8Move the array designator from the variable to the type.(¡şÏÖøÿÿÿÿ8¾ÎØßê,
+usquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(º°…àøÿÿÿÿ8¾ÎØßê,
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(¨¶ÑÍşÿÿÿÿ8¾ÎØßê,

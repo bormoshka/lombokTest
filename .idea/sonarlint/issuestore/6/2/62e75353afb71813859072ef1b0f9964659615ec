@@ -1,0 +1,36 @@
+
+squid:S1192."\Define a constant instead of duplicating this literal "            \"validDate\": " 6 times.(­Ä…şÿÿÿÿ8Î¡ùî÷,
+€squid:S11925"]Define a constant instead of duplicating this literal "        \"base\": \"A98\",\n" 3 times.(ä¬ûîûÿÿÿÿ8Î¡ùî÷,
+lsquid:S1192/"NDefine a constant instead of duplicating this literal "          }\n" 6 times.(ÚÜƒ8Î¡ùî÷,
+W
+squid:S106®"9Replace this use of System.out or System.err by a logger.(øŒ¼Æ8Î¡ùî÷,
+msquid:S1192 "JDefine a constant instead of duplicating this literal "      {\n" 6 times.(Ÿñ¼Ñÿÿÿÿÿ8Î¡ùî÷,
+[squid:UselessImportCheck"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8Î¡ùî÷,
+Xsquid:UselessImportCheck".Remove this unused import 'java.util.TreeSet'.(½îB8Î¡ùî÷,
+squid:S1192&"\Define a constant instead of duplicating this literal "            \"prices\": [\n" 6 times.(å·‰æıÿÿÿÿ8Î¡ùî÷,
+[squid:UselessImportCheck"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8Î¡ùî÷,
+hsquid:S11921"JDefine a constant instead of duplicating this literal "      }\n" 6 times.(ÚÜƒ8Î¡ùî÷,
+usquid:S1192#"WDefine a constant instead of duplicating this literal "        \"tiers\": [\n" 6 times.(Ò“’û8Î¡ùî÷,
+`squid:UselessImportCheck"0Remove this unused import 'java.util.SortedSet'.(ÆÙÉÛşÿÿÿÿ8Î¡ùî÷,
+fsquid:S11922"IDefine a constant instead of duplicating this literal "    ],\n" 4 times.(Â¥—?8Î¡ùî÷,
+osquid:S11920"LDefine a constant instead of duplicating this literal "        ]\n" 6 times.(ü©ş˜øÿÿÿÿ8Î¡ùî÷,
+~squid:S1192("`Define a constant instead of duplicating this literal "                \"vol\": 1.0,\n" 6 times.(ôÌŞ·8Î¡ùî÷,
+{squid:S1192!"]Define a constant instead of duplicating this literal "        \"base\": \"USD\",\n" 3 times.(‰ÊòÙ8Î¡ùî÷,
+usquid:S1192'"RDefine a constant instead of duplicating this literal "              {\n" 6 times.(Ÿñ¼Ñÿÿÿÿÿ8Î¡ùî÷,
+Zsquid:UselessImportCheck	"*Remove this unused import 'java.util.Map'.(¼è½Òşÿÿÿÿ8Î¡ùî÷,
+zsquid:S1192-"\Define a constant instead of duplicating this literal "            \"startDate\": " 6 times.(»¬ø8Î¡ùî÷,
+psquid:S1192+"RDefine a constant instead of duplicating this literal "              }\n" 6 times.(ÚÜƒ8Î¡ùî÷,
+^squid:UnusedPrivateMethodc"2Remove this unused private "getOldApiJson" method.(õ¿¿Ö8Î¡ùî÷,
+‚squid:S1192%"_Define a constant instead of duplicating this literal "            \"code\": \"1\",\n" 6 times.(œÑöäÿÿÿÿÿ8Î¡ùî÷,
+„squid:S1192)"aDefine a constant instead of duplicating this literal "                \"bid\": 12.1,\n" 4 times.(±İËÔûÿÿÿÿ8Î¡ùî÷,
+nsquid:S1192,"QDefine a constant instead of duplicating this literal "            ],\n" 6 times.(Â¥—?8Î¡ùî÷,
+V
+squid:S106`"9Replace this use of System.out or System.err by a logger.(øŒ¼Æ8Î¡ùî÷,
+Xsquid:UselessImportCheck".Remove this unused import 'java.util.HashSet'.(Ê‚êX8Î¡ùî÷,
+qsquid:S1192$"NDefine a constant instead of duplicating this literal "          {\n" 6 times.(Ÿñ¼Ñÿÿÿÿÿ8Î¡ùî÷,
+^squid:UselessImportCheck".Remove this unused import 'java.util.HashMap'.(™˜”€ùÿÿÿÿ8Î¡ùî÷,
+isquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(üòäê8Î¡ùî÷,
+}squid:S1192""_Define a constant instead of duplicating this literal "        \"quoted\": \"RUB\",\n" 6 times.(úÇ¥°8Î¡ùî÷,
+Zsquid:UselessImportCheck
+"*Remove this unused import 'java.util.Set'.(ö²„¤şÿÿÿÿ8Î¡ùî÷,
+€squid:S1192*"bDefine a constant instead of duplicating this literal "                \"offer\": 15.1\n" 4 times.(æµÎÊ8Î¡ùî÷,

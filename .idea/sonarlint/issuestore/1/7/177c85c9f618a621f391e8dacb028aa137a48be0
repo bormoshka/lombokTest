@@ -1,0 +1,13 @@
+
+Jsquid:S1143"5Remove this return statement from this finally block.(È¸å
+\squid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(—Øäª
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(ó¼Òøÿÿÿÿÿ
+[squid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(‰Æáe
+1squid:S1220""Move this file to a named package.
+lsquid:S2737"WAdd logic to this catch clause or eliminate it and rethrow the exception automatically.(ö™û
+asquid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(œô–‚ÿÿÿÿÿ
+[squid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(‰Æáe
+Jsquid:S1143"5Remove this return statement from this finally block.(È¸å
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(ê¯öœ
